@@ -2,7 +2,6 @@
 
 ![](file:\\\D:\JS\rs_school\Photo.jpg)
 
-
 ## Contacts ##
 
 * **Location:** Moscow, Russian Federation
