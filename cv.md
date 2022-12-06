@@ -5,7 +5,7 @@
 ## Contacts ##
 
 * **Location:** Moscow, Russian Federation
-* **Phone:** +7 (920) 109-14-59
+* **Phone:** +7 (910) 109-14-59
 * **E-Mail:** rav288@yandex.ru
 * **Telegram:** @SeregaMotargem
 * **GitHub:** [Gvardeezzz](https://github.com/Gvardeezzz)
