@@ -1,6 +1,6 @@
 # Sergey Popov #
 
-![](file:\\\D:\JS\rs_school\Photo.jpg)
+![](https://ie.wampi.ru/2022/12/06/Photo.jpg)
 
 ## Contacts ##
 
